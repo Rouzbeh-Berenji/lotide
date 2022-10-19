@@ -7,7 +7,7 @@ const eqArrays = (actual, expected) => {
       return `false`;
     }
   }
-  return 'pass';
+  return 'true';
 }
 
 
